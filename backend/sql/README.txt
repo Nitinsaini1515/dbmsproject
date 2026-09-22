@@ -1,0 +1,1 @@
+-- Redirect to root database/schema.sql
